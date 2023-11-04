@@ -1,7 +1,7 @@
 # Nuri Can Acar
 -  👋 Hi, I'm @nuricanacar
 - :school: I am studying computer engineering at Ondokuz Mayıs University.
-- 🗺️ I am currently in Erasmus+ Program at Tomas Bata University Zlin, Czechia 🇨🇿
+- 🗺️ I am currently in Erasmus+ Program at Tomas Bata University Zlin, Czechia :czech_republic:
 - 👀 I'm interested in coding.
 - :man_technologist: I’m currently learning coding languages
 
